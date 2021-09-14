@@ -493,6 +493,9 @@ button {
 .img-harf {
   width: 50%;
 }
+.cred {
+  color: red;
+}
 /********************
 * Utility
 ********************/
