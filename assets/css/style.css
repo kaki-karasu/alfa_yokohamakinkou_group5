@@ -490,7 +490,9 @@ button {
   width: 288px;
   margin: 0;
 }
-
+.img-harf {
+  width: 50%;
+}
 /********************
 * Utility
 ********************/
